@@ -14,6 +14,13 @@ body {
   background-size: contain;
   background-position: left;
 }
+/* Figma Section */
+#Figma-Section {
+  background-image: url("../img/LMW.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
@@ -40,3 +47,6 @@ body {
   }
 
 }
+.texto-justificado{
+  text-align: justify;
+  }
